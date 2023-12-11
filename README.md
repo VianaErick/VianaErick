@@ -1,6 +1,6 @@
 <p align="center">My name is <strong>Erick Viana</strong>, I'm <strong>twenty two years old</strong>, <br>
 i was born in Petrópolis, Rio de janeiro, Brazil, and study <strong>Information and Comunication Technology</strong> in  University Faeterj<br>
-I'm searching jobs on <strong>Developing Web</strong> area, I'm agile and strive to learn new teachings. <strong>Thanks for visiting my profile</strong>.</p>&nbsp;
+I'm searching for jobs on <strong>Developing Web</strong> area, I'm agile and strive to learn new teachings. <strong>Thanks for visiting my profile</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-stats-kappa-orpin-64.vercel.app/api?username=VianaErick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
